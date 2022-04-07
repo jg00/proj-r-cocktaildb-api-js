@@ -4,15 +4,15 @@ Search CocktailsDB API with React. Load, search cocktails. Explore Context API a
 
 ![cocktaildb-api](https://user-images.githubusercontent.com/43181662/162241115-5ac8dc54-33f6-4396-9692-a49b011ddf92.png)
 
-## Hotel Site Demo
+## CocktailsDB API with React
 
 <a href="https://cocktaildb-api-r.netlify.app/" target="_blank">CocktailDB API with React</a>
 
-#### React Router Fix
+## React Router v6 Fix
 
 (Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
 
-#### CRA Fix
+## CRA Fix
 
 ```
 
